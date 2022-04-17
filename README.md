@@ -1,5 +1,5 @@
 # C--PhoneBook
-Command line Contact Book written in C.
+Command line Phone Book written in C.
 
 ## Functions
 |Phone book

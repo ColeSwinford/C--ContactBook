@@ -1,4 +1,4 @@
-# C--ContactBook
+# C--PhoneBook
 Command line Contact Book written in C.
 
 ## Functions

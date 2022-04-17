@@ -2,7 +2,6 @@
 Command line Phone Book written in C.
 
 ## Functions
-|Phone book
 1) Add friend
 2) Delete friend
 3) Show contacts

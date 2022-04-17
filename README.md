@@ -1,7 +1,7 @@
 # C--ContactBook
 Command line Contact Book written in C.
 
-##Functions##
+## Functions
 |Phone book
 1) Add friend
 2) Delete friend

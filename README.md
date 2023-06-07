@@ -1,5 +1,5 @@
 # C--PhoneBook
-Open-Source, Command line Phone Book written in C.
+Command line Phone Book written in C.
 
 ## Functions
 1) Add friend
